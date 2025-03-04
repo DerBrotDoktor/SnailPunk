@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 494cc3f146cacec43b4aeea22d1c0182, type: 3}
+  m_Name: 11_1_Tutorial Needs
+  m_EditorClassIdentifier: 
+  _voiceOver:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
+  _isFlavorText: 0
+  _flavorText: To grow some trees and crops, the farmer and the forester need fields
+    in there area. Lets get some green in this desert.
+  _title: Needs
+  _shouldPause: 0
+  _tasks:
+  - {fileID: 11400000, guid: dd8b6c32e12445347b89cf4334fc0d2f, type: 2}
+  - {fileID: 11400000, guid: de9a3b1ab47be144da24743bc9d85203, type: 2}

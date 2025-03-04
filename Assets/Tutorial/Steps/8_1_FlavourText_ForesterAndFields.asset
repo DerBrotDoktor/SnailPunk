@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 494cc3f146cacec43b4aeea22d1c0182, type: 3}
+  m_Name: 8_1_FlavourText_ForesterAndFields
+  m_EditorClassIdentifier: 
+  _voiceOver:
+    Guid:
+      Data1: -1417241073
+      Data2: 1332564999
+      Data3: -800512873
+      Data4: -449932431
+    Path: event:/VO/021_VO_8_1_Flavour Text_Forester And Fields
+  _isFlavorText: 1
+  _flavorText: The farmer and the forester need fields in the area to grow trees
+    and crops. Lets get some green in this desert.
+  _title: 
+  _shouldPause: 1
+  _tasks: []

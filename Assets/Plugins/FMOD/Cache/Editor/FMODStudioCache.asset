@@ -1,0 +1,2537 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9147256330757229736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ambience/005_SFX_Ambience_Background_Wind
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Ambience/005_SFX_Ambience_Background_Wind
+  Guid:
+    Data1: 849299107
+    Data2: 1227832573
+    Data3: 1427679132
+    Data4: -1332124861
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 6424286183826074352}
+  - {fileID: 2111527653599679499}
+  - {fileID: 2454858025876122082}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 10478
+--- !u!114 &-9073871230679976163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/003_SFX_UI_Window Open Sound_Farm
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/003_SFX_UI_Window Open Sound_Farm
+  Guid:
+    Data1: 1732493240
+    Data2: 1337250160
+    Data3: -2062772811
+    Data4: 2036675494
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1244
+--- !u!114 &-8640238286269742378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/008_SFX_Destroy Building Sound/Parameter 1
+  m_EditorClassIdentifier: 
+  Name: Parameter 1
+  StudioPath: 
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 3372096157
+    data2: 2130149856
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Generic
+  - Building 1
+  - Building 2
+  Exists: 1
+--- !u!114 &-8456999613102776089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/002_SFX_UI_Hover Sound
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/002_SFX_UI_Hover Sound
+  Guid:
+    Data1: 759440482
+    Data2: 1237596693
+    Data3: 1378089405
+    Data4: 1355158609
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 34
+--- !u!114 &-7988670789986777415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/003_SFX_UI_Window Open Sound_Cogwheel
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/003_SFX_UI_Window Open Sound_Cogwheel
+  Guid:
+    Data1: 1992968774
+    Data2: 1239288658
+    Data3: -788108897
+    Data4: -1905993480
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1244
+--- !u!114 &-7641277114814750123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/007_SFX_Build Sound
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/007_SFX_Build Sound
+  Guid:
+    Data1: -1921400959
+    Data2: 1161792119
+    Data3: -1808640325
+    Data4: -1038056848
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -2837609863597961015}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7261282861675999430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/024_SFX_Snail Idle
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/024_SFX_Snail Idle
+  Guid:
+    Data1: 735761675
+    Data2: 1283858401
+    Data3: 2082958768
+    Data4: -575066188
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 1409574541398262584}
+  MinDistance: 7.55
+  MaxDistance: 30
+  Length: 10401
+--- !u!114 &-7235343703000347642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/OLD_006_Music_Overworld Theme
+  m_EditorClassIdentifier: 
+  Path: event:/Music/OLD_006_Music_Overworld Theme
+  Guid:
+    Data1: -918557493
+    Data2: 1088772541
+    Data3: 1249549711
+    Data4: 487870401
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -4795975463706174947}
+  - {fileID: 866695680170345705}
+  - {fileID: 5499032221561981648}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 241951
+--- !u!114 &-7001911980092322209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/025_SFX_Snail Movement
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/025_SFX_Snail Movement
+  Guid:
+    Data1: -1211006574
+    Data2: 1291271787
+    Data3: 92507816
+    Data4: 884602180
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 4190109321380296779}
+  MinDistance: 7.55
+  MaxDistance: 35
+  Length: 10660
+--- !u!114 &-6428482616486817781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/005_SFX_Ambience_Background_Village/Camera Zoom
+  m_EditorClassIdentifier: 
+  Name: Camera Zoom
+  StudioPath: 
+  Min: 17
+  Max: 80
+  Default: 80
+  ID:
+    data1: 2601837690
+    data2: 74018354
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-6335292882009134791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Fmod/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638766890659435907
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-6098892835944033875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VO/021_VO_8_1_Flavour Text_Forester And Fields
+  m_EditorClassIdentifier: 
+  Path: event:/VO/021_VO_8_1_Flavour Text_Forester And Fields
+  Guid:
+    Data1: -1417241073
+    Data2: 1332564999
+    Data3: -800512873
+    Data4: -449932431
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7432
+--- !u!114 &-5825904759010944882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/006_Music_Overworld Theme
+  m_EditorClassIdentifier: 
+  Path: event:/Music/006_Music_Overworld Theme
+  Guid:
+    Data1: 1453239664
+    Data2: 1270383736
+    Data3: -395176574
+    Data4: -1673668447
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -4731333300100267290}
+  - {fileID: -1203017297442282486}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1307445
+--- !u!114 &-5412339380353263470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/021_VO_0_Intro/DayNight
+  m_EditorClassIdentifier: 
+  Name: DayNight
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3901066677
+    data2: 740594318
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-5234048746001480789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/006_01_Music_Settings
+  m_EditorClassIdentifier: 
+  Path: event:/Music/006_01_Music_Settings
+  Guid:
+    Data1: -1292257762
+    Data2: 1336692424
+    Data3: -952279912
+    Data4: -461212671
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 6102639218625097263}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 124878
+--- !u!114 &-5118333753273093653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/003_SFX_UI_Window Open Sound_Waterpump
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/003_SFX_UI_Window Open Sound_Waterpump
+  Guid:
+    Data1: -630324895
+    Data2: 1174380490
+    Data3: -324952677
+    Data4: -1571226631
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1244
+--- !u!114 &-5029732247139851761
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/Settings Menu Open
+  m_EditorClassIdentifier: 
+  Path: snapshot:/Settings Menu Open
+  Guid:
+    Data1: 1426541343
+    Data2: 1274624075
+    Data3: -1442108777
+    Data4: 1900479059
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &-4795975463706174947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/OLD_006_Music_Overworld Theme/DayNight
+  m_EditorClassIdentifier: 
+  Name: DayNight
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3901066677
+    data2: 740594318
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-4731333300100267290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/006_Music_Overworld Theme/DayNight
+  m_EditorClassIdentifier: 
+  Name: DayNight
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3901066677
+    data2: 740594318
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-4401219507118249699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ambience/019_SFX_Ambience_Construction
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Ambience/019_SFX_Ambience_Construction
+  Guid:
+    Data1: 1854898239
+    Data2: 1328222569
+    Data3: -261302136
+    Data4: -1333682065
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 4775786248010783295}
+  MinDistance: 7
+  MaxDistance: 35
+  Length: 7865
+--- !u!114 &-4210884016062703971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/011_SFX_Tree Cutting Sound/DistanceZoom
+  m_EditorClassIdentifier: 
+  Name: DistanceZoom
+  StudioPath: 
+  Min: 17
+  Max: 80
+  Default: 17
+  ID:
+    data1: 151289685
+    data2: 4077606647
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-4170041564346642969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ambience/027_SFX_Ambience_Cook
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Ambience/027_SFX_Ambience_Cook
+  Guid:
+    Data1: 547858050
+    Data2: 1278764181
+    Data3: 718562959
+    Data4: 166415774
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 1660965273011260050}
+  MinDistance: 7
+  MaxDistance: 30
+  Length: 7827
+--- !u!114 &-3958385464693257914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VO/021_VO_0_Intro
+  m_EditorClassIdentifier: 
+  Path: event:/VO/021_VO_0_Intro
+  Guid:
+    Data1: -974461819
+    Data2: 1143116151
+    Data3: 190465464
+    Data4: -370822389
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -5412339380353263470}
+  - {fileID: -1164296527892841089}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 34500
+--- !u!114 &-3802418522376997349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VO/021_VO_11_Tutorial Needs
+  m_EditorClassIdentifier: 
+  Path: event:/VO/021_VO_11_Tutorial Needs
+  Guid:
+    Data1: -72354237
+    Data2: 1075051096
+    Data3: -42543178
+    Data4: -527572914
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 10539
+--- !u!114 &-3559725994037301459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VO/021_VO_4_BuildingsAnnouncement
+  m_EditorClassIdentifier: 
+  Path: event:/VO/021_VO_4_BuildingsAnnouncement
+  Guid:
+    Data1: -1520801642
+    Data2: 1215728626
+    Data3: -959188576
+    Data4: 1111973244
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7053
+--- !u!114 &-3413327692644785944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/003_SFX_UI_Window Open Sound_Cook
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/003_SFX_UI_Window Open Sound_Cook
+  Guid:
+    Data1: 2064456683
+    Data2: 1258844433
+    Data3: -150231634
+    Data4: -1689083969
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1244
+--- !u!114 &-3172022547202869219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ambience/005_SFX_Ambience_Background_Village
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Ambience/005_SFX_Ambience_Background_Village
+  Guid:
+    Data1: -2058589262
+    Data2: 1209736776
+    Data3: -1559611486
+    Data4: 1490756177
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -6428482616486817781}
+  - {fileID: 7940390300933540594}
+  - {fileID: 7277997883574088260}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 73543
+--- !u!114 &-3090667645410530766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/013_Music_Main Menu Theme/Settings Menu Open
+  m_EditorClassIdentifier: 
+  Name: Settings Menu Open
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3155298669
+    data2: 3889960531
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-2988997968435342591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Settings Menu Open
+  m_EditorClassIdentifier: 
+  Name: Settings Menu Open
+  StudioPath: parameter:/Settings Menu Open
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3155298669
+    data2: 3889960531
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-2837609863597961015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/007_SFX_Build Sound/Parameter 1
+  m_EditorClassIdentifier: 
+  Name: Parameter 1
+  StudioPath: 
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 3372096157
+    data2: 2130149856
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Generic
+  - Building 1
+  - Building 2
+  Exists: 1
+--- !u!114 &-2655546324083983405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ambience/022_SFX_Ambience_Lumberjack
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Ambience/022_SFX_Ambience_Lumberjack
+  Guid:
+    Data1: -1378558970
+    Data2: 1220479661
+    Data3: 304100523
+    Data4: -899398635
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 7028072585156618107}
+  MinDistance: 7.9
+  MaxDistance: 25
+  Length: 4000
+--- !u!114 &-2506172636792739759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/004_SFX_UI_Window Close Sound_Lumberjack
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/004_SFX_UI_Window Close Sound_Lumberjack
+  Guid:
+    Data1: 1101229357
+    Data2: 1251731332
+    Data3: -1291528306
+    Data4: 1630172996
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 808
+--- !u!114 &-2267011414877276298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/004_SFX_UI_Window Close Sound_Waterpump
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/004_SFX_UI_Window Close Sound_Waterpump
+  Guid:
+    Data1: -1278736939
+    Data2: 1103265163
+    Data3: -1826849385
+    Data4: -998234618
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 900
+--- !u!114 &-2173574505551843968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VO/021_VO_15_Gather For New Settlement
+  m_EditorClassIdentifier: 
+  Path: event:/VO/021_VO_15_Gather For New Settlement
+  Guid:
+    Data1: -1787680436
+    Data2: 1241346914
+    Data3: 1054912905
+    Data4: -1541168977
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 3300111021694505350}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5786
+--- !u!114 &-1681476648708661008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/012_SFX_Planting Sound/DistanceZoom
+  m_EditorClassIdentifier: 
+  Name: DistanceZoom
+  StudioPath: 
+  Min: 17
+  Max: 80
+  Default: 17
+  ID:
+    data1: 151289685
+    data2: 4077606647
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-1362564239304966668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/DayNight
+  m_EditorClassIdentifier: 
+  Name: DayNight
+  StudioPath: parameter:/DayNight
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3901066677
+    data2: 740594318
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-1210552909274234581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/026_SFX_Snail Born
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/026_SFX_Snail Born
+  Guid:
+    Data1: -1433956011
+    Data2: 1211361101
+    Data3: 1236347817
+    Data4: -1855987246
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1987
+--- !u!114 &-1203017297442282486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/006_Music_Overworld Theme/Settings Menu Open
+  m_EditorClassIdentifier: 
+  Name: Settings Menu Open
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3155298669
+    data2: 3889960531
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-1164296527892841089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/021_VO_0_Intro/BuildingStatus
+  m_EditorClassIdentifier: 
+  Name: BuildingStatus
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 87981278
+    data2: 4283056348
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-1062105730587315872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VO/021_VO_14_New Settlement Announcment
+  m_EditorClassIdentifier: 
+  Path: event:/VO/021_VO_14_New Settlement Announcment
+  Guid:
+    Data1: 1736728816
+    Data2: 1272293173
+    Data3: -188145257
+    Data4: 473606757
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 10727
+--- !u!114 &-1047115783280104107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/015_SFX_Tutorial Step complete Sound
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/015_SFX_Tutorial Step complete Sound
+  Guid:
+    Data1: 1401975251
+    Data2: 1156646550
+    Data3: -468884309
+    Data4: -817462178
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 484
+--- !u!114 &-1005970312738748599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VO/021_VO_Outro
+  m_EditorClassIdentifier: 
+  Path: event:/VO/021_VO_Outro
+  Guid:
+    Data1: -979108478
+    Data2: 1077193701
+    Data3: -878412110
+    Data4: -2097724036
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 4870285109645342282}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 13072
+--- !u!114 &-879401332266199023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/004_SFX_UI_Window Close Sound_Generic
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/004_SFX_UI_Window Close Sound_Generic
+  Guid:
+    Data1: -89273182
+    Data2: 1316733779
+    Data3: 1135317938
+    Data4: -41932011
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 351
+--- !u!114 &-869135854169789178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/008_SFX_Destroy Building Sound
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/008_SFX_Destroy Building Sound
+  Guid:
+    Data1: -751323698
+    Data2: 1340326613
+    Data3: 1318046877
+    Data4: -73674353
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -8640238286269742378}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-860395388678238944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BuildingStatus
+  m_EditorClassIdentifier: 
+  Name: BuildingStatus
+  StudioPath: parameter:/BuildingStatus
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 87981278
+    data2: 4283056348
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-533396949447621231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/013_Music_Main Menu Theme
+  m_EditorClassIdentifier: 
+  Path: event:/Music/013_Music_Main Menu Theme
+  Guid:
+    Data1: -1106977177
+    Data2: 1208404668
+    Data3: -359965795
+    Data4: 1182177632
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -3090667645410530766}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 62439
+--- !u!114 &-462814991069649017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/021_VO_8_Flavour Text_Forester And Fields/BuildingStatus
+  m_EditorClassIdentifier: 
+  Name: BuildingStatus
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 87981278
+    data2: 4283056348
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-437235843795365013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/011_SFX_Tree Cutting Sound
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/011_SFX_Tree Cutting Sound
+  Guid:
+    Data1: -1028037423
+    Data2: 1324459432
+    Data3: 248731310
+    Data4: -1731775696
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -4210884016062703971}
+  MinDistance: 7
+  MaxDistance: 45
+  Length: 1000
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 7522327196611154362}
+  - {fileID: -6335292882009134791}
+  EditorEvents:
+  - {fileID: 3593992251394451112}
+  - {fileID: 4651915234055141785}
+  - {fileID: -8456999613102776089}
+  - {fileID: 918401433138288815}
+  - {fileID: -7641277114814750123}
+  - {fileID: -5825904759010944882}
+  - {fileID: -869135854169789178}
+  - {fileID: -437235843795365013}
+  - {fileID: 5082910502051111803}
+  - {fileID: 6579747684557268056}
+  - {fileID: 2815742440222432443}
+  - {fileID: -2506172636792739759}
+  - {fileID: 8995921137532633779}
+  - {fileID: 1572111965713107041}
+  - {fileID: -5118333753273093653}
+  - {fileID: 5107437015314093252}
+  - {fileID: 7084952917566969963}
+  - {fileID: -9073871230679976163}
+  - {fileID: -7235343703000347642}
+  - {fileID: -1047115783280104107}
+  - {fileID: -2267011414877276298}
+  - {fileID: 4563298956143425065}
+  - {fileID: -2655546324083983405}
+  - {fileID: -7261282861675999430}
+  - {fileID: 7652080035242527069}
+  - {fileID: -6098892835944033875}
+  - {fileID: -5234048746001480789}
+  - {fileID: -5029732247139851761}
+  - {fileID: 6598280515191465356}
+  - {fileID: 549243016818963184}
+  - {fileID: 4804829368362489357}
+  - {fileID: -4401219507118249699}
+  - {fileID: -3802418522376997349}
+  - {fileID: -7988670789986777415}
+  - {fileID: -2173574505551843968}
+  - {fileID: -1210552909274234581}
+  - {fileID: 4544359774609634671}
+  - {fileID: -533396949447621231}
+  - {fileID: 1434949722163396455}
+  - {fileID: 168427457972031326}
+  - {fileID: 5959655268026617142}
+  - {fileID: -4170041564346642969}
+  - {fileID: -1005970312738748599}
+  - {fileID: -3958385464693257914}
+  - {fileID: -7001911980092322209}
+  - {fileID: -3559725994037301459}
+  - {fileID: 860262665361128171}
+  - {fileID: -879401332266199023}
+  - {fileID: -9147256330757229736}
+  - {fileID: -3172022547202869219}
+  - {fileID: 1293647001185679605}
+  - {fileID: 8250938679259073481}
+  - {fileID: -3413327692644785944}
+  - {fileID: 6839940012552836576}
+  - {fileID: -1062105730587315872}
+  EditorParameters:
+  - {fileID: 4298822254215510313}
+  - {fileID: -1362564239304966668}
+  - {fileID: -2988997968435342591}
+  - {fileID: -860395388678238944}
+  - {fileID: 5295507599021681574}
+  MasterBanks:
+  - {fileID: -6335292882009134791}
+  StringsBanks:
+  - {fileID: 7522327196611154362}
+  cacheTime: 638766890659465948
+  cacheVersion: 131618
+--- !u!114 &168427457972031326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/003_SFX_UI_Window Open Sound_Generic
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/003_SFX_UI_Window Open Sound_Generic
+  Guid:
+    Data1: -692388246
+    Data2: 1175287534
+    Data3: -617386072
+    Data4: 922009213
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1244
+--- !u!114 &307927060769754233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/018_SFX_Ambience_Lantern/DistanceZoom
+  m_EditorClassIdentifier: 
+  Name: DistanceZoom
+  StudioPath: 
+  Min: 17
+  Max: 80
+  Default: 17
+  ID:
+    data1: 151289685
+    data2: 4077606647
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &549243016818963184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/004_SFX_UI_Window Close Sound_Cogwheel
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/004_SFX_UI_Window Close Sound_Cogwheel
+  Guid:
+    Data1: 338716473
+    Data2: 1252291295
+    Data3: 1815105413
+    Data4: -628808640
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 916
+--- !u!114 &860262665361128171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ambience/018_SFX_Ambience_Lantern
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Ambience/018_SFX_Ambience_Lantern
+  Guid:
+    Data1: 2069808033
+    Data2: 1132954680
+    Data3: -171752007
+    Data4: 763807797
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 307927060769754233}
+  MinDistance: 7
+  MaxDistance: 20
+  Length: 29151
+--- !u!114 &866695680170345705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/OLD_006_Music_Overworld Theme/BuildingStatus
+  m_EditorClassIdentifier: 
+  Name: BuildingStatus
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 87981278
+    data2: 4283056348
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &918401433138288815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ambience/010_SFX_Ambience_Sawmill Sawing Sound
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Ambience/010_SFX_Ambience_Sawmill Sawing Sound
+  Guid:
+    Data1: 1265594747
+    Data2: 1178286142
+    Data3: -197286241
+    Data4: -1105948826
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 5862909958879218062}
+  MinDistance: 7.55
+  MaxDistance: 35
+  Length: 10376
+--- !u!114 &1185803515963425703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/012_SFX_Planting Sound/Plant Growth
+  m_EditorClassIdentifier: 
+  Name: Plant Growth
+  StudioPath: 
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 3896513543
+    data2: 2665895102
+  Type: 2
+  IsGlobal: 0
+  Labels:
+  - Lettuce
+  - Oak
+  - Pine
+  Exists: 1
+--- !u!114 &1293647001185679605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VO/021_VO_13_Congratulation
+  m_EditorClassIdentifier: 
+  Path: event:/VO/021_VO_13_Congratulation
+  Guid:
+    Data1: -1924439853
+    Data2: 1109751775
+    Data3: -162243180
+    Data4: 688258420
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5676
+--- !u!114 &1409574541398262584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/024_SFX_Snail Idle/Camera Zoom
+  m_EditorClassIdentifier: 
+  Name: Camera Zoom
+  StudioPath: 
+  Min: 17
+  Max: 80
+  Default: 80
+  ID:
+    data1: 2601837690
+    data2: 74018354
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &1434949722163396455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/020_SFX_Rotation
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/020_SFX_Rotation
+  Guid:
+    Data1: -846153110
+    Data2: 1202669629
+    Data3: -1541712750
+    Data4: 578247553
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 500
+--- !u!114 &1572111965713107041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/003_SFX_UI_Window Open Sound_Forester
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/003_SFX_UI_Window Open Sound_Forester
+  Guid:
+    Data1: 1212945755
+    Data2: 1111020029
+    Data3: -1176869463
+    Data4: -913878022
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1244
+--- !u!114 &1660965273011260050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/027_SFX_Ambience_Cook/Camera Zoom
+  m_EditorClassIdentifier: 
+  Name: Camera Zoom
+  StudioPath: 
+  Min: 17
+  Max: 80
+  Default: 80
+  ID:
+    data1: 2601837690
+    data2: 74018354
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &2111527653599679499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/005_SFX_Ambience_Background_Wind/DayNight
+  m_EditorClassIdentifier: 
+  Name: DayNight
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3901066677
+    data2: 740594318
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &2454858025876122082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/005_SFX_Ambience_Background_Wind/BuildingStatus
+  m_EditorClassIdentifier: 
+  Name: BuildingStatus
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 87981278
+    data2: 4283056348
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &2623700188614644977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/017_SFX_Ambience_Cogwheel Factory Sawing Sound/DistanceZoom
+  m_EditorClassIdentifier: 
+  Name: DistanceZoom
+  StudioPath: 
+  Min: 17
+  Max: 80
+  Default: 17
+  ID:
+    data1: 151289685
+    data2: 4077606647
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2815742440222432443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/003_SFX_UI_Window Open Sound_Sawmill
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/003_SFX_UI_Window Open Sound_Sawmill
+  Guid:
+    Data1: -1928230650
+    Data2: 1133956996
+    Data3: -646201438
+    Data4: -1521315843
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1244
+--- !u!114 &3300111021694505350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/021_VO_15_Gather For New Settlement/BuildingStatus
+  m_EditorClassIdentifier: 
+  Name: BuildingStatus
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 87981278
+    data2: 4283056348
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &3593992251394451112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ambience/009_SFX_Ambience_Water Pump Pumping sound
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Ambience/009_SFX_Ambience_Water Pump Pumping sound
+  Guid:
+    Data1: -1218102778
+    Data2: 1138064938
+    Data3: 702533542
+    Data4: 953191324
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 7386850847113809388}
+  MinDistance: 7.2000003
+  MaxDistance: 40
+  Length: 11737
+--- !u!114 &4190109321380296779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/025_SFX_Snail Movement/Camera Zoom
+  m_EditorClassIdentifier: 
+  Name: Camera Zoom
+  StudioPath: 
+  Min: 17
+  Max: 80
+  Default: 80
+  ID:
+    data1: 2601837690
+    data2: 74018354
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &4298822254215510313
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Water PumpConstruction
+  m_EditorClassIdentifier: 
+  Name: Water PumpConstruction
+  StudioPath: parameter:/Water PumpConstruction
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1938848667
+    data2: 1472105966
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &4544359774609634671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/014_Music_Credits Theme
+  m_EditorClassIdentifier: 
+  Path: event:/Music/014_Music_Credits Theme
+  Guid:
+    Data1: -720209829
+    Data2: 1183296292
+    Data3: -595638891
+    Data4: 502917808
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 165161
+--- !u!114 &4563298956143425065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/004_SFX_UI_Window Close Sound_Farm
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/004_SFX_UI_Window Close Sound_Farm
+  Guid:
+    Data1: 2100166874
+    Data2: 1187006547
+    Data3: -22655093
+    Data4: 2047837370
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1025
+--- !u!114 &4651915234055141785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/001_SFX_UI_Click Sound
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/001_SFX_UI_Click Sound
+  Guid:
+    Data1: -606902694
+    Data2: 1214655344
+    Data3: -323717467
+    Data4: 1462299953
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 375
+--- !u!114 &4775786248010783295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/019_SFX_Ambience_Construction/DistanceZoom
+  m_EditorClassIdentifier: 
+  Name: DistanceZoom
+  StudioPath: 
+  Min: 17
+  Max: 80
+  Default: 17
+  ID:
+    data1: 151289685
+    data2: 4077606647
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4804829368362489357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VO/021_VO_1_TutorialStart
+  m_EditorClassIdentifier: 
+  Path: event:/VO/021_VO_1_TutorialStart
+  Guid:
+    Data1: -1018498502
+    Data2: 1149593595
+    Data3: 873372343
+    Data4: 1996053602
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4007
+--- !u!114 &4870285109645342282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/021_VO_Outro/BuildingStatus
+  m_EditorClassIdentifier: 
+  Name: BuildingStatus
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 87981278
+    data2: 4283056348
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &5082910502051111803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/012_SFX_Planting Sound
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/012_SFX_Planting Sound
+  Guid:
+    Data1: -1596751883
+    Data2: 1199754160
+    Data3: 2000602043
+    Data4: -21045685
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 1185803515963425703}
+  - {fileID: -1681476648708661008}
+  MinDistance: 7.85
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5107437015314093252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/004_SFX_UI_Window Close Sound_Forester
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/004_SFX_UI_Window Close Sound_Forester
+  Guid:
+    Data1: 654629271
+    Data2: 1118780379
+    Data3: 1840865424
+    Data4: 448715327
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 856
+--- !u!114 &5295507599021681574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Camera Zoom
+  m_EditorClassIdentifier: 
+  Name: Camera Zoom
+  StudioPath: parameter:/Camera Zoom
+  Min: 17
+  Max: 80
+  Default: 80
+  ID:
+    data1: 2601837690
+    data2: 74018354
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &5499032221561981648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/OLD_006_Music_Overworld Theme/DroughtStatus
+  m_EditorClassIdentifier: 
+  Name: DroughtStatus
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1609895096
+    data2: 3930673676
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &5862909958879218062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/010_SFX_Ambience_Sawmill Sawing Sound/DistanceZoom
+  m_EditorClassIdentifier: 
+  Name: DistanceZoom
+  StudioPath: 
+  Min: 17
+  Max: 80
+  Default: 17
+  ID:
+    data1: 151289685
+    data2: 4077606647
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &5959655268026617142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ambience/017_SFX_Ambience_Cogwheel Factory Sawing Sound
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Ambience/017_SFX_Ambience_Cogwheel Factory Sawing Sound
+  Guid:
+    Data1: -1293157267
+    Data2: 1303039986
+    Data3: 1962052276
+    Data4: 925775476
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 2623700188614644977}
+  MinDistance: 7.4
+  MaxDistance: 35
+  Length: 10376
+--- !u!114 &6102639218625097263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/006_01_Music_Settings/Settings Menu Open
+  m_EditorClassIdentifier: 
+  Name: Settings Menu Open
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3155298669
+    data2: 3889960531
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &6424286183826074352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/005_SFX_Ambience_Background_Wind/Camera Zoom
+  m_EditorClassIdentifier: 
+  Name: Camera Zoom
+  StudioPath: 
+  Min: 17
+  Max: 80
+  Default: 80
+  ID:
+    data1: 2601837690
+    data2: 74018354
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &6579747684557268056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/004_SFX_UI_Window Close Sound_Sawmill
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/004_SFX_UI_Window Close Sound_Sawmill
+  Guid:
+    Data1: 1557125890
+    Data2: 1145317887
+    Data3: 1249352835
+    Data4: -794411525
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 778
+--- !u!114 &6598280515191465356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/Game Intro
+  m_EditorClassIdentifier: 
+  Path: snapshot:/Game Intro
+  Guid:
+    Data1: -686857164
+    Data2: 1229938983
+    Data3: 833346989
+    Data4: 1678299230
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &6839940012552836576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/Settings Menu Closed
+  m_EditorClassIdentifier: 
+  Path: snapshot:/Settings Menu Closed
+  Guid:
+    Data1: 1420019436
+    Data2: 1138080216
+    Data3: -245020994
+    Data4: 405785558
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &7028072585156618107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/022_SFX_Ambience_Lumberjack/DistanceZoom
+  m_EditorClassIdentifier: 
+  Name: DistanceZoom
+  StudioPath: 
+  Min: 17
+  Max: 80
+  Default: 17
+  ID:
+    data1: 151289685
+    data2: 4077606647
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7084952917566969963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/UI/003_SFX_UI_Window Open Sound_Lumberjack
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/UI/003_SFX_UI_Window Open Sound_Lumberjack
+  Guid:
+    Data1: 1293034669
+    Data2: 1149648962
+    Data3: -1900939366
+    Data4: 466418445
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1244
+--- !u!114 &7277997883574088260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/005_SFX_Ambience_Background_Village/DayNight
+  m_EditorClassIdentifier: 
+  Name: DayNight
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3901066677
+    data2: 740594318
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &7386850847113809388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/009_SFX_Ambience_Water Pump Pumping sound/DistanceZoom
+  m_EditorClassIdentifier: 
+  Name: DistanceZoom
+  StudioPath: 
+  Min: 17
+  Max: 80
+  Default: 17
+  ID:
+    data1: 151289685
+    data2: 4077606647
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7522327196611154362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Fmod/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638766890659465948
+  FileSizes:
+  - Name: 
+    Value: 4652
+  Exists: 1
+--- !u!114 &7652080035242527069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VO/021_VO_8_Flavour Text_Forester And Fields
+  m_EditorClassIdentifier: 
+  Path: event:/VO/021_VO_8_Flavour Text_Forester And Fields
+  Guid:
+    Data1: 569340431
+    Data2: 1286173472
+    Data3: -984788552
+    Data4: 135035509
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -462814991069649017}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 6474
+--- !u!114 &7940390300933540594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/005_SFX_Ambience_Background_Village/BuildingStatus
+  m_EditorClassIdentifier: 
+  Name: BuildingStatus
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 87981278
+    data2: 4283056348
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &8250938679259073481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/023_SFX_Snail Death
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/023_SFX_Snail Death
+  Guid:
+    Data1: -633199649
+    Data2: 1325082942
+    Data3: 1744039100
+    Data4: -90530352
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1990
+--- !u!114 &8995921137532633779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/016_SFX_Tutorial Task complete Sound
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/016_SFX_Tutorial Task complete Sound
+  Guid:
+    Data1: 905214779
+    Data2: 1121470026
+    Data3: -1790185083
+    Data4: 1286715929
+  Banks:
+  - {fileID: -6335292882009134791}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 781

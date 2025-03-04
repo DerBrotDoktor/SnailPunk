@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5bce90ecfa95424799196a63517e3fe, type: 3}
+  m_Name: Lumberjack
+  m_EditorClassIdentifier: 
+  _buildingName: Lumberjack
+  _buildingDescription: Cuts Trees in the area around it.
+  _buildingIcon: {fileID: 21300000, guid: 9c39d01999a09064eb4631a51bc57d59, type: 3}
+  _buildingPrefab: {fileID: 4782551565789086279, guid: 8fb971d61c190864b809cc8f64fb7ef3, type: 3}
+  _buildingSize: {x: 1, y: 1, z: 1}
+  _internalStreetPosition: {x: 0, y: 0, z: 0}
+  _externalStreetPosition: {x: 0, y: 0, z: -1}
+  _buildingCosts:
+  - resourceType: 0
+    amount: 0

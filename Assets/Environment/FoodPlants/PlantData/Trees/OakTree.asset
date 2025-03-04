@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: befd153e63dff7b41b892e3953c4b70c, type: 3}
+  m_Name: OakTree
+  m_EditorClassIdentifier: 
+  _resourceType: 1
+  _amount: 10
+  _timeToGrow: 300
+  _timeToHarvest: 2
+  _prefab: {fileID: 7298255692798897746, guid: 239c56f773e443c49995acb3e841865b, type: 3}
+  _models:
+  - {fileID: 919132149155446097, guid: 31befbc4da87d3b40a3a247cb2bd9f9b, type: 3}
+  - {fileID: 919132149155446097, guid: d9d0e94b90bc3074684b58590b3af433, type: 3}
+  - {fileID: 919132149155446097, guid: cf9f795ea409d544c9818de59a84df74, type: 3}

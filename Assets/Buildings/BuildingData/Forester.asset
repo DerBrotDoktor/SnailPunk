@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5bce90ecfa95424799196a63517e3fe, type: 3}
+  m_Name: Forester
+  m_EditorClassIdentifier: 
+  _buildingName: Forester
+  _buildingDescription: Plants Trees on fields around. Without a forester your Wood
+    reserves will soon be empty.
+  _buildingIcon: {fileID: 21300000, guid: 6cea41d627303f248808b1927aa6394f, type: 3}
+  _buildingPrefab: {fileID: 3920925719689168281, guid: c04553d2166cce640a5a02d91fae0af3, type: 3}
+  _buildingSize: {x: 3, y: 3, z: 3}
+  _internalStreetPosition: {x: 1, y: 0, z: 0}
+  _externalStreetPosition: {x: 1, y: 0, z: -1}
+  _buildingCosts:
+  - resourceType: 1
+    amount: 10

@@ -1,0 +1,393 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &263902935356047214
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2696668641706841140}
+  - component: {fileID: 8533905593100485025}
+  - component: {fileID: 1778874397688649396}
+  - component: {fileID: 8937232335517404957}
+  - component: {fileID: 5713141149361813936}
+  - component: {fileID: 5821767751534801231}
+  - component: {fileID: -6905350002183847709}
+  - component: {fileID: 5365193264091762289}
+  - component: {fileID: -6555186440383451430}
+  - component: {fileID: -3539749799869526889}
+  - component: {fileID: 3204461270401845942}
+  - component: {fileID: -6512787786666762809}
+  - component: {fileID: -7161945958207507619}
+  m_Layer: 16
+  m_Name: Snail
+  m_TagString: Snail
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2696668641706841140
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263902935356047214}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4699891166145293858}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8533905593100485025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263902935356047214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73a8c29ce64e7d04bb685a830223ef22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 1.5
+  rotationSpeed: 1000
+--- !u!65 &1778874397688649396
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263902935356047214}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.2, y: 0.2, z: 0.2}
+  m_Center: {x: 0, y: 0.1, z: 0}
+--- !u!54 &8937232335517404957
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263902935356047214}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
+--- !u!114 &5713141149361813936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263902935356047214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c56b6ea493a465842b7ea6aa9d04f4dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  overheadIcon: {fileID: 7065787352654595486}
+  needs:
+  - Type: 3
+    Icon: {fileID: 21300000, guid: a33460ad3888dd343bc76b8ea7b7f638, type: 3}
+    Amount: 1200
+    MaxAmount: 500
+    SatisfyThreshold: 400
+    ComplainThreshold: 300
+    SatisfyBeforeThresholdProbability: 1
+    DecreasePerSecond: 1
+    SatisfyAmount: 50
+    DeathMessage: turned into Snail Jerky
+  - Type: 2
+    Icon: {fileID: 21300000, guid: 4596193e3b1855e49ae5670273960c42, type: 3}
+    Amount: 1200
+    MaxAmount: 500
+    SatisfyThreshold: 400
+    ComplainThreshold: 300
+    SatisfyBeforeThresholdProbability: 1
+    DecreasePerSecond: 1
+    SatisfyAmount: 150
+    DeathMessage: was denied a last meal
+  - Type: 1
+    Icon: {fileID: 21300000, guid: 6fc9d758886ecc94181e9c40263ba220, type: 3}
+    Amount: 2300
+    MaxAmount: 1500
+    SatisfyThreshold: 0
+    ComplainThreshold: 500
+    SatisfyBeforeThresholdProbability: 0
+    DecreasePerSecond: 2
+    SatisfyAmount: 15
+    DeathMessage: couldn't rest so he rests in peace
+  prioritisedFoods: 1400000000000000000000000000000000000000
+  reproductionProbability: 50
+--- !u!114 &5821767751534801231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263902935356047214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af71bbe42970e8740a151df7ec01124b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deadModelPrefab: {fileID: 3169951540185278199, guid: 18a81595be08e9d4da4a2a78edfb5a57, type: 3}
+  noneModelPrefab: {fileID: 2605242490694494071, guid: e89dd12afb8c8a84a959c939d6a97b66, type: 3}
+  harvestingModelPrefab: {fileID: 2605242490694494071, guid: e89dd12afb8c8a84a959c939d6a97b66, type: 3}
+  workerModelPrefab: {fileID: 2605242490694494071, guid: e89dd12afb8c8a84a959c939d6a97b66, type: 3}
+  constructionModelPrefab: {fileID: 2605242490694494071, guid: e89dd12afb8c8a84a959c939d6a97b66, type: 3}
+  farmModelPrefab: {fileID: 2605242490694494071, guid: e89dd12afb8c8a84a959c939d6a97b66, type: 3}
+  inventorySlot:
+    resourceType: 0
+    currentAmount: 0
+    maxAmount: 10
+--- !u!114 &-6905350002183847709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263902935356047214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df01de6eafe913144ac30936d2b3180a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!95 &5365193264091762289
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263902935356047214}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0836b2b3daf13b249940a8b81096624b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-6555186440383451430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263902935356047214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 672dfae89aa4cce4e931dd72fef3ab3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idleEmitter: {fileID: -6512787786666762809}
+  moveEmitter: {fileID: -7161945958207507619}
+--- !u!114 &-3539749799869526889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263902935356047214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46dd05dc905e2ea4da4e6e746e0dada5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  emitterType: 0
+  soundEmitter: {fileID: -6512787786666762809}
+  fmodEventEmitter: {fileID: 0}
+--- !u!114 &3204461270401845942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263902935356047214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46dd05dc905e2ea4da4e6e746e0dada5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  emitterType: 0
+  soundEmitter: {fileID: -7161945958207507619}
+  fmodEventEmitter: {fileID: 0}
+--- !u!114 &-6512787786666762809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263902935356047214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2215e99996a2da84d90a4192b50dc2f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sound:
+    Guid:
+      Data1: 735761675
+      Data2: 1283858401
+      Data3: 2082958768
+      Data4: -575066188
+    Path: event:/SFX/024_SFX_Snail Idle
+  use3DAttributes: 1
+--- !u!114 &-7161945958207507619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263902935356047214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2215e99996a2da84d90a4192b50dc2f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sound:
+    Guid:
+      Data1: -1211006574
+      Data2: 1291271787
+      Data3: 92507816
+      Data4: 884602180
+    Path: event:/SFX/025_SFX_Snail Movement
+  use3DAttributes: 1
+--- !u!1 &655071017350765754
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4699891166145293858}
+  - component: {fileID: 7065787352654595486}
+  - component: {fileID: 7106800928372318578}
+  m_Layer: 16
+  m_Name: OverheadIcon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4699891166145293858
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 655071017350765754}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2696668641706841140}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &7065787352654595486
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 655071017350765754}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: c9ee16883bcd42f4596646593ae39c39, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &7106800928372318578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 655071017350765754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f14c21b2a7d46ed41b7a3fc2a6474f69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  freezeX: 1
+  freezeY: 0
+  freezeZ: 1

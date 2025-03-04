@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: befd153e63dff7b41b892e3953c4b70c, type: 3}
+  m_Name: Lettuce
+  m_EditorClassIdentifier: 
+  _resourceType: 20
+  _amount: 4
+  _timeToGrow: 80
+  _timeToHarvest: 2
+  _prefab: {fileID: 7298255692798897746, guid: 5389363117ea5a240b9ca9afb6955f76, type: 3}
+  _models:
+  - {fileID: 919132149155446097, guid: b5961b9393c516d43839f432dbc52d83, type: 3}
+  - {fileID: 919132149155446097, guid: 0072fc4efdb4bcf41911ab4abfa23075, type: 3}
+  - {fileID: 919132149155446097, guid: 1623134fd5b10754e8bbb0b5adab0cbf, type: 3}
+  - {fileID: 919132149155446097, guid: 0e52f9b4044569b408e1f485489b9e89, type: 3}

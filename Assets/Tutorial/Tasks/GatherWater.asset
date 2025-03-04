@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756cc2c35dee40ecafef125e6ef971bf, type: 3}
+  m_Name: GatherWater
+  m_EditorClassIdentifier: 
+  _text: Gather 5 Water<sprite="IconSprite" index=4>
+  _taskType: 3
+  _inputAction:
+    m_Name: 
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: d983065d-8d3a-4971-b9c3-456baa108265
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  _pressTime: 0
+  _tutorialEvent: {fileID: 0}
+  _resourceType: 31
+  _resourceAmount: 5

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756cc2c35dee40ecafef125e6ef971bf, type: 3}
+  m_Name: Scroll
+  m_EditorClassIdentifier: 
+  _text: To get a better look roll the <color=#FFD83C>mouse wheel<color=#FFFFFF>.
+  _taskType: 1
+  _inputAction:
+    m_Name: Input
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 71175969-09de-415d-86de-cb7c288340cc
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: bb84c28e-2a1e-4725-b4b7-6d7c9c69ce0d
+      m_Path: <Mouse>/scroll
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Input
+      m_Flags: 0
+    m_Flags: 0
+  _pressTime: 0.1
+  _tutorialEvent: {fileID: 0}
+  _resourceType: 0
+  _resourceAmount: 0

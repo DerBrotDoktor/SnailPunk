@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: befd153e63dff7b41b892e3953c4b70c, type: 3}
+  m_Name: PineTree
+  m_EditorClassIdentifier: 
+  _resourceType: 1
+  _amount: 2
+  _timeToGrow: 120
+  _timeToHarvest: 2
+  _prefab: {fileID: 7298255692798897746, guid: 445c0e32f22e0a74785f750f2f872ce9, type: 3}
+  _models:
+  - {fileID: 919132149155446097, guid: 4613ee8bea4ebb446bbd0050d9676e71, type: 3}
+  - {fileID: 919132149155446097, guid: ab412040a7d085c4f90118450ffd92e9, type: 3}
+  - {fileID: 919132149155446097, guid: c05b387bee65fee4fb524b69270c1ec4, type: 3}
+  - {fileID: 919132149155446097, guid: 2041ea19d8ec8634aa60eeafb2c05519, type: 3}
