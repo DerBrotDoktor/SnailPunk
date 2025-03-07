@@ -2,7 +2,7 @@
 
  **Snail Punk is a small village building game with the focus on a tutorial that is intended to teach the player the basic functions of a building game.**
 
- Snail Punk was developed as a student project at the S4G School for Games in the summer of 2024.
+ Snail Punk was developed as a student project at the [S4G School for Games](https://www.school4games.net) in the summer of 2024.
   
   Play it on [Itch.io](https://s4g.itch.io/snail-punk)!
  
